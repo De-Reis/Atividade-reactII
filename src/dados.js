@@ -1,7 +1,7 @@
 import IMG1 from './assets/img/projeto1.png'
 import IMG2 from './assets/img/mdemaravilhosa.png'
-// import IMG3 from './assets/img/projeto3.png'
-// import IMG4 from './assets/img/projeto4.png'
+import IMG3 from './assets/img/meudiario..png'
+import IMG4 from './assets/img/meuportifolio.png'
 
 
 const projetos = [
@@ -24,23 +24,23 @@ const projetos = [
         link: "https://reprogramaprojeto1-mariellefranco.netlify.app/"
     },
 
-    // {
-    //     id: 3,
-    //     nome: "Meu diário reprograma",
-    //     descricao: "Um site em react do meu diário na Reprograma",
-    //     aprendizado: "Criação de projeto em react, criando componentes e utilizando props",
-    //     imgsrc: IMG3,
-    //     link: "https://guileless-liger-fe8995.netlify.app/"
-    // },
+    {
+        id: 3,
+        nome: "Meu diário reprograma",
+        descricao: "Um site em react do meu diário na Reprograma",
+        aprendizado: "Criação de projeto em react, criando componentes e utilizando props",
+        imgsrc: IMG3,
+        link: "https://guileless-liger-fe8995.netlify.app/"
+    },
 
-    // {
-    //     id: 4,
-    //     nome: "Meu Portifólio Reprograma",
-    //     descricao: "Um site em react do meu portifólio na Reprograma",
-    //     aprendizado: "Criação de projeto em react, criando componentes e utilizando props",
-    //     imgsrc: IMG4,
-    //     link: ""
-    // },
+    {
+        id: 4,
+        nome: "Meu Portifólio Reprograma",
+        descricao: "Um site em react do meu portifólio na Reprograma",
+        aprendizado: "Criação de projeto em react, criando componentes e utilizando props",
+        imgsrc: IMG4,
+        link: ""
+    },
       
     
   ]
