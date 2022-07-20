@@ -1,6 +1,6 @@
 import IMG1 from './assets/img/projeto1.png'
 import IMG2 from './assets/img/mdemaravilhosa.png'
-import IMG3 from './assets/img/meudiario..png'
+import IMG3 from './assets/img/meudiario.png'
 import IMG4 from './assets/img/meuportifolio.png'
 
 
