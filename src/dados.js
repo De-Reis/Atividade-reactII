@@ -1,7 +1,7 @@
 import IMG1 from './assets/img/projeto1.png'
-import IMG2 from './assets/img/projeto2.png'
-import IMG3 from './assets/img/projeto3.png'
-import IMG4 from './assets/img/projeto4.png'
+// import IMG2 from './assets/img/projeto2.png'
+// import IMG3 from './assets/img/projeto3.png'
+// import IMG4 from './assets/img/projeto4.png'
 
 
 const projetos = [
